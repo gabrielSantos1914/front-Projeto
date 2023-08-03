@@ -241,7 +241,7 @@ color: white;
       text-shadow: 2px 2px 2px white;
 
   }
-
+  
   @media (max-width: 830px){
     .login a {
         font-size: 15px;
